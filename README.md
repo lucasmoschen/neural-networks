@@ -1,4 +1,4 @@
-# NeuralNetworks
+# Neural Networks
 Applied mathematics doctoral course with Neural Networks and Deep Learning Approach
 
 This course is built by professor [Renato Souza](https://github.com/rsouza/NeuralNetworks_Course) and includes several topics:
