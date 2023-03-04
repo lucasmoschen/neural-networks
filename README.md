@@ -24,6 +24,6 @@ Technical Background
 - **Encoder-Decoder Networks:** Four neural networks are used alone or combined to create this kind of media: Two networks with narrower layers towards the center so that there is a encode in the latent space.
 - **Convolucional Neural Networks:** Learn filters that move through the entrance forming a map of abstract features.
 - **Generative Adversarial Networks:** A dispute between a neural network that generates fakes and a neural network that discriminates fakes from real ones.
-- **Recurrent Neural Networks:** Handles sequential variables. After processing $$x^{(i-1)}$$ the network remembers the internal state and can use $$x^{(i)}$$.
+- **Recurrent Neural Networks:** Handles sequential variables. After processing $x^{(i-1)}$ the network remembers the internal state and can use $x^{(i)}$.
  
 Nowadays, CycleGan is a great tool used to deal with audio input. 
